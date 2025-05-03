@@ -1,0 +1,36 @@
+Patient name,Age,Gender,Blood Group,Sugar Level(mg/dl),Blood Pressure(mmhg),Hemoglobin(g/dl)
+Ravi Jain,37,M,O +ve,128,119,11.2
+Vinay Sharma,23,M,AB -ve,99,156,6.3
+Kavya Gupta,21,F,B +ve,110,141,11.0
+Rishi Jain,34,M,B +ve,159,163,8.9
+Surbhi Rathore,40,F,A +ve,210,150,9.1
+Srishty Dubey,39,F,AB +ve,250,89,10.5
+Kunal Joshi,24,M,O -ve,156,91,13.5
+Pankaj Sharma,42,M,B -ve,134,124,15.2
+Shruti Gupta,25,F,A +ve,100,126,9.0
+Rakesh Sharma,37,M,B +ve,113,131,13.4
+V.P. Jain,46,M,B +ve,114,143,15.0
+Shoaib Khan,38,M,O +ve,115,99,9.0
+Dipika Kakkar,34,F,AB -ve,127,111,14.0
+Saba Ibrahim,25,F,A +ve,89,164,15.0
+Yuvraj Sharma,36,M,O+ve,110,133,13.0
+Rakhi Sharma,38,F,O +ve,198,67,11.1
+Ankit Mishra,21,M,B +ve,211,90,9.4
+Aaditya Chouhan,28,M,AB +ve,139,121,11.0
+Palak Jain,31,F,AB -ve,107,80,15.1
+Ankita Dubey,41,F,B +ve,125,134,7.4
+Vedika Sharma,39,F,O +ve,233,143,8.7
+Sneha Mishra,20,F,A +ve,219,90,13.4
+Praveen Malviya,36,M,B -ve,173,98,15.0
+Mayank Mishra,25,M,AB -ve,191,87,11.1
+Khushi Jain,31,F,B +ve,181,167,12.0
+Akriti Sharma,27,F,B +ve,208,154,10.0
+Alisha Rajput,45,F,B +ve,216,91,9.8
+Deepak  Soni,48,M,A +ve,133,167,14.13
+Karan Gupta,25,M,AB +ve,193,120,6.0
+Pratham Joshi,37,M,O +ve,217,165,8.1
+Harsh Verma,42,M,AB -ve,284,145,14.9
+Yash Thakur,48,M,B +ve,234,81,11.2
+Ritika Chouhan,50,F,O +ve,111,189,9.0
+Anjali Patidar,28,F,O +ve,130,68,10.0
+Riya Chouhan,26,F,B+ve,152,95,11.4
